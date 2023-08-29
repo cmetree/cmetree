@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there, i am david shim aka whocdin👋
 
-<!--
-**cmetree/cmetree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![badge](https://img.shields.io/badge/David%20Shim-Hello%20Gitworld-blue)
 
-Here are some ideas to get you started:
+### 🌏 안녕하세요 데이비드 심 입니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
